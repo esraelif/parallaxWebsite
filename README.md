@@ -1,2 +1,3 @@
 ![parallaxWebsite](https://github.com/esraelif/parallaxWebsite/blob/main/assets/paral.gif)
 # parallaxWebsite
+This website features a parallax scrolling effect, which creates a captivating 3D illusion as you scroll through the page. By moving background images at a slower pace compared to the foreground content, this technique adds depth and visual interest, making the user experience more immersive and engaging. The parallax design is utilized to enhance storytelling, showcase products, and present interactive content in a dynamic and visually appealing way. Explore the site to experience the unique and engaging parallax effect in action.
